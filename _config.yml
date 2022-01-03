@@ -29,7 +29,7 @@ description:           >
   프로그래밍 세상으로 고고씽!
 
 # A shorter description for the sidebar.
-tagline:               프로그래밍을 제대로 공부하는 법
+tagline:               나는 매일 프로그램을 만든다
 
 # A list of keywords for your blog
 keywords:              [C++, Python, Homepage, AI, Programming, 메타버스, 코딩, 프로그래밍]
@@ -49,12 +49,12 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             About
+    url:               /about/
   - title:             Example
     url:               /example/
   - title:             Documentation
     url:               /docs/
-  - title:             About
-    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
