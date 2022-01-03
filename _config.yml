@@ -37,7 +37,7 @@ keywords:              [C++, Python, Homepage, AI, Programming, 메타버스, �
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/me/logo_head.png
+logo:                  /assets/img/me/logo_head_square.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
